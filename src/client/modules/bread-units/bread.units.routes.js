@@ -1,4 +1,4 @@
-import template from './bread-units.html';
+import template from './bread.units.html';
 
 routesConfig.$inject = ['$stateProvider'];
 function routesConfig($stateProvider) {
